@@ -1,5 +1,10 @@
 org/zerock/guestbook/ServletInitializer.java
  org.zerock.guestbook.ServletInitializer
+org/zerock/guestbook/entity/Guestbook.java
+ org.zerock.guestbook.entity.Guestbook
+ org.zerock.guestbook.entity.Guestbook$GuestbookBuilder
+org/zerock/guestbook/entity/BaseEntity.java
+ org.zerock.guestbook.entity.BaseEntity
 org/zerock/guestbook/controller/GuestbookController.java
  org.zerock.guestbook.controller.GuestbookController
 org/zerock/guestbook/GuestbookApplication.java
