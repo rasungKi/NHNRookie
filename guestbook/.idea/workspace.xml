@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73aded1-a384-4927-aedd-df9af5b015f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/zerock/guestbook/controller/GuestbookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/zerock/guestbook/controller/GuestbookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/guestbook/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/guestbook/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/guestbook/modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/guestbook/modify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/guestbook/read.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/guestbook/read.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/controller/GuestbookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/controller/GuestbookController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/guestbook/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/guestbook/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/guestbook/modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/guestbook/modify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/guestbook/read.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/guestbook/read.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,17 +87,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.GuestbookApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GuestbookRepositoryTests.testQuery1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -244,7 +220,8 @@
       <workItem from="1611121627398" duration="475000" />
       <workItem from="1611122108872" duration="84000" />
       <workItem from="1611122488092" duration="7264000" />
-      <workItem from="1611130183669" duration="4095000" />
+      <workItem from="1611130183669" duration="4936000" />
+      <workItem from="1611136157285" duration="764000" />
     </task>
     <servers />
   </component>
