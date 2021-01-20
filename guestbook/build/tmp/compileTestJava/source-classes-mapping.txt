@@ -1,6 +1,6 @@
 org/zerock/guestbook/GuestbookApplicationTests.java
  org.zerock.guestbook.GuestbookApplicationTests
-org/zerock/guestbook/repository/GuestbookRepositoryTests.java
- org.zerock.guestbook.repository.GuestbookRepositoryTests
 org/zerock/guestbook/service/GuestbookServiceTests.java
  org.zerock.guestbook.service.GuestbookServiceTests
+org/zerock/guestbook/repository/GuestbookRepositoryTests.java
+ org.zerock.guestbook.repository.GuestbookRepositoryTests
