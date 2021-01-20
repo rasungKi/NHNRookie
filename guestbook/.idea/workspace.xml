@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73aded1-a384-4927-aedd-df9af5b015f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/entity/MovieImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/entity/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/MreviewApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/MreviewApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +228,7 @@
       <workItem from="1611122108872" duration="84000" />
       <workItem from="1611122488092" duration="7264000" />
       <workItem from="1611130183669" duration="4936000" />
-      <workItem from="1611136157285" duration="2961000" />
+      <workItem from="1611136157285" duration="3742000" />
     </task>
     <servers />
   </component>
