@@ -18,12 +18,12 @@ org/zerock/guestbook/entity/QGuestbook.java
 org/zerock/guestbook/dto/GuestbookDTO.java
  org.zerock.guestbook.dto.GuestbookDTO
  org.zerock.guestbook.dto.GuestbookDTO$GuestbookDTOBuilder
+org/zerock/guestbook/dto/PageRequestDTO.java
+ org.zerock.guestbook.dto.PageRequestDTO
+ org.zerock.guestbook.dto.PageRequestDTO$PageRequestDTOBuilder
 org/zerock/guestbook/service/GuestbookServiceImpl.java
  org.zerock.guestbook.service.GuestbookServiceImpl
 org/zerock/guestbook/dto/PageResultDTO.java
  org.zerock.guestbook.dto.PageResultDTO
-org/zerock/guestbook/dto/PageRequestDTO.java
- org.zerock.guestbook.dto.PageRequestDTO
- org.zerock.guestbook.dto.PageRequestDTO$PageRequestDTOBuilder
 org/zerock/guestbook/service/GuestbookService.java
  org.zerock.guestbook.service.GuestbookService
