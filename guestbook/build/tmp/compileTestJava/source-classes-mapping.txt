@@ -1,0 +1,4 @@
+org/zerock/guestbook/GuestbookApplicationTests.java
+ org.zerock.guestbook.GuestbookApplicationTests
+org/zerock/guestbook/repository/GuestbookRepositoryTests.java
+ org.zerock.guestbook.repository.GuestbookRepositoryTests
