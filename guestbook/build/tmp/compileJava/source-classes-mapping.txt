@@ -7,8 +7,8 @@ org/zerock/guestbook/ServletInitializer.java
  org.zerock.guestbook.ServletInitializer
 org/zerock/guestbook/repository/GuestbookRepository.java
  org.zerock.guestbook.repository.GuestbookRepository
-org/zerock/guestbook/controller/GuestbookController.java
- org.zerock.guestbook.controller.GuestbookController
+org/zerock/guestbook/entity/QBaseEntity.java
+ org.zerock.guestbook.entity.QBaseEntity
 org/zerock/guestbook/GuestbookApplication.java
  org.zerock.guestbook.GuestbookApplication
 org/zerock/guestbook/service/GuestbookServiceImpl.java
@@ -25,5 +25,5 @@ org/zerock/guestbook/service/GuestbookService.java
  org.zerock.guestbook.service.GuestbookService
 org/zerock/guestbook/entity/QGuestbook.java
  org.zerock.guestbook.entity.QGuestbook
-org/zerock/guestbook/entity/QBaseEntity.java
- org.zerock.guestbook.entity.QBaseEntity
+org/zerock/guestbook/controller/GuestbookController.java
+ org.zerock.guestbook.controller.GuestbookController
