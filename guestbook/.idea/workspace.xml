@@ -5,46 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73aded1-a384-4927-aedd-df9af5b015f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/controller/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/MovieDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/MovieImageDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/css/simple-sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/templates/movie/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/PageRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/PageResultDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mreview/src/main/resources/templates/movie/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/dto/MovieDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/java/org/zerock/mreview/service/MovieServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mreview/src/main/resources/templates/movie/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mreview/src/main/resources/templates/movie/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +95,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.GuestbookApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GuestbookRepositoryTests.testQuery1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -261,6 +242,7 @@
       <workItem from="1611130183669" duration="4936000" />
       <workItem from="1611136157285" duration="3742000" />
       <workItem from="1611192705892" duration="451000" />
+      <workItem from="1611210381009" duration="797000" />
     </task>
     <servers />
   </component>

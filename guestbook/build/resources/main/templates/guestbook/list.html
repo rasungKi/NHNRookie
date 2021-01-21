@@ -41,12 +41,7 @@
             </thead>
             <tbody>
             <tr th:each="dto : ${result.dtoList}">
-                <th scope="row">
-                    <a th:href="@{/guestbook/read(gno = ${dto.gno}, page= ${result.page},
-                    type=${pageRequestDTO.type}, keyword = ${pageRequestDTO.keyword})}">
-                        [[${dto.gno}]]
-                    </a>
-                </td>
+                <th scope="row">[[${dto.gno}]</td>
                 <th>[[${dto.title}]]</td>
                 <th>[[${dto.writer}]]</td>
                 <th>[[${#temporals.format(dto.regDate, 'yyyy/MM/dd')}]]</td>
